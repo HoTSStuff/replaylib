@@ -1,0 +1,4 @@
+[submodule "s2protocol"]
+	path = s2protocol
+	url = https://github.com/Blizzard/s2protocol.git
+	branch = master
